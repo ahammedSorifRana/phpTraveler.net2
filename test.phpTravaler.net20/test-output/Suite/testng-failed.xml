@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="TC0002_VerifySingUpWithValidCredential(failed)">
+    <classes>
+      <class name="test.phpTravaler.net.Navigation.TC0002_VerifySingUpWithValidCredential">
+        <methods>
+          <include name="VerifySingUpWithValidCredential"/>
+          <include name="setUp"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- test.phpTravaler.net.Navigation.TC0002_VerifySingUpWithValidCredential -->
+    </classes>
+  </test> <!-- TC0002_VerifySingUpWithValidCredential(failed) -->
+  <test name="TC0003_VerifySingUpWithDifferentSetOfDatal(failed)">
+    <classes>
+      <class name="test.phpTravaler.net.Navigation.TC0003_VerifySingUpWithDifferentSetOfData">
+        <methods>
+          <include name="testCaseName" invocation-numbers="0 1 2 3 4"/>
+          <include name="setUp"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- test.phpTravaler.net.Navigation.TC0003_VerifySingUpWithDifferentSetOfData -->
+    </classes>
+  </test> <!-- TC0003_VerifySingUpWithDifferentSetOfDatal(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="TC0001_VerifyLogInWithValidCredential">
+    <classes>
+      <class name="test.phpTravaler.net.Navigation.TC0001_VerifyLogInWithValidCredential"/>      
+    </classes>
+  </test> <!-- Test -->
+  <test name="TC0002_VerifySingUpWithValidCredential">
+    <classes>
+       <class name="test.phpTravaler.net.Navigation.TC0002_VerifySingUpWithValidCredential"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  <test name="TC0003_VerifySingUpWithDifferentSetOfDatal">
+    <classes>
+       <class name="test.phpTravaler.net.Navigation.TC0003_VerifySingUpWithDifferentSetOfData"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
