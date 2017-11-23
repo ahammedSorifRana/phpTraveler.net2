@@ -2,26 +2,26 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[<a herf='C:\Users\Ahammed Sorif\eclipse-workspace\test.phpTravaler.net\src\test\java\test\phpTravaler\net\CaptureScreenShot\SingIn-15_11_2017_09_10_25.png'><img src='C:\Users\Ahammed Sorif\eclipse-workspace\test.phpTravaler.net\src\test\java\test\phpTravaler\net\CaptureScreenShot\SingIn-15_11_2017_09_10_25.png' height='100' width='100'/>)</0>]]>
+      <![CDATA[<a herf='C:\Users\Ahammed Sorif\git\phpTraveler.net2\test.phpTravaler.net20\src\test\java\test\phpTravaler\net\CaptureScreenShot\SingIn-23_11_2017_11_55_36.png'><img src='C:\Users\Ahammed Sorif\git\phpTraveler.net2\test.phpTravaler.net20\src\test\java\test\phpTravaler\net\CaptureScreenShot\SingIn-23_11_2017_11_55_36.png' height='100' width='100'/>)</0>]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="24425" started-at="2017-11-16T02:10:06Z" finished-at="2017-11-16T02:10:30Z">
+  <suite name="Default suite" duration-ms="20381" started-at="2017-11-23T16:55:21Z" finished-at="2017-11-23T16:55:42Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="24425" started-at="2017-11-16T02:10:06Z" finished-at="2017-11-16T02:10:30Z">
+    <test name="Default test" duration-ms="20381" started-at="2017-11-23T16:55:21Z" finished-at="2017-11-23T16:55:42Z">
       <class name="test.phpTravaler.net.Navigation.TC0001_VerifyLogInWithValidCredential">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:test.phpTravaler.net.Navigation.TC0001_VerifyLogInWithValidCredential@464bee09]" name="setUp" is-config="true" duration-ms="17011" started-at="2017-11-15T21:10:06Z" finished-at="2017-11-15T21:10:23Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:test.phpTravaler.net.Navigation.TC0001_VerifyLogInWithValidCredential@464bee09]" name="setUp" is-config="true" duration-ms="12663" started-at="2017-11-23T11:55:21Z" finished-at="2017-11-23T11:55:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="VerifyLogInWithValidCredential()[pri:0, instance:test.phpTravaler.net.Navigation.TC0001_VerifyLogInWithValidCredential@464bee09]" name="VerifyLogInWithValidCredential" duration-ms="5180" started-at="2017-11-15T21:10:23Z" finished-at="2017-11-15T21:10:28Z">
+        <test-method status="PASS" signature="VerifyLogInWithValidCredential()[pri:0, instance:test.phpTravaler.net.Navigation.TC0001_VerifyLogInWithValidCredential@464bee09]" name="VerifyLogInWithValidCredential" duration-ms="5499" started-at="2017-11-23T11:55:34Z" finished-at="2017-11-23T11:55:40Z">
           <reporter-output>
             <line>
-              <![CDATA[<a herf='C:\Users\Ahammed Sorif\eclipse-workspace\test.phpTravaler.net\src\test\java\test\phpTravaler\net\CaptureScreenShot\SingIn-15_11_2017_09_10_25.png'><img src='C:\Users\Ahammed Sorif\eclipse-workspace\test.phpTravaler.net\src\test\java\test\phpTravaler\net\CaptureScreenShot\SingIn-15_11_2017_09_10_25.png' height='100' width='100'/>)</0>]]>
+              <![CDATA[<a herf='C:\Users\Ahammed Sorif\git\phpTraveler.net2\test.phpTravaler.net20\src\test\java\test\phpTravaler\net\CaptureScreenShot\SingIn-23_11_2017_11_55_36.png'><img src='C:\Users\Ahammed Sorif\git\phpTraveler.net2\test.phpTravaler.net20\src\test\java\test\phpTravaler\net\CaptureScreenShot\SingIn-23_11_2017_11_55_36.png' height='100' width='100'/>)</0>]]>
             </line>
           </reporter-output>
         </test-method> <!-- VerifyLogInWithValidCredential -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:test.phpTravaler.net.Navigation.TC0001_VerifyLogInWithValidCredential@464bee09]" name="endTest" is-config="true" duration-ms="2217" started-at="2017-11-15T21:10:28Z" finished-at="2017-11-15T21:10:30Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:test.phpTravaler.net.Navigation.TC0001_VerifyLogInWithValidCredential@464bee09]" name="endTest" is-config="true" duration-ms="2205" started-at="2017-11-23T11:55:40Z" finished-at="2017-11-23T11:55:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
